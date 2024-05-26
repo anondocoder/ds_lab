@@ -42,3 +42,9 @@ int main()
     }
     return 0;
 }
+
+/*
+Sample I/O:
+ 140 146
+ 320 335
+*/
